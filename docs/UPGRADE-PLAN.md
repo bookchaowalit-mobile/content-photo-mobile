@@ -14,7 +14,7 @@ Compose UI is still a placeholder and the Android build is unverified locally.
 - P1: Load photos from MediaStore (READ_MEDIA_IMAGES) and render the justified grid with `core` sizes.
 - P1: Apply crop/rotate with `Bitmap` and save a copy (never overwrite originals).
 - P2: Compose UI tests (`androidx.compose.ui:ui-test-junit4`) for the main flow.
-- P2: Pin `distributionSha256Sum` in `gradle-wrapper.properties`.
+- ~~P2: Pin `distributionSha256Sum` in `gradle-wrapper.properties`.~~ Done 2026-10-22.
 
 ## Done in this pass (pass 1)
 
